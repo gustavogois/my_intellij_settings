@@ -26,6 +26,10 @@
           <option name="url" value="https://github.com/gustavogois/springbootwebapp.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/gustavogois/Java8InAction.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/projetos" />
