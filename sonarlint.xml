@@ -1,5 +1,11 @@
 <application>
   <component name="SonarLintGlobalSettings">
+    <option name="excludedRules">
+      <set>
+        <option value="squid:S00105" />
+        <option value="squid:S1451" />
+      </set>
+    </option>
     <option name="includedRules">
       <set>
         <option value="squid:CallToFileDeleteOnExitMethod" />
@@ -16,7 +22,6 @@
         <option value="squid:RightCurlyBraceStartLineCheck" />
         <option value="squid:S00103" />
         <option value="squid:S00104" />
-        <option value="squid:S00105" />
         <option value="squid:S00113" />
         <option value="squid:S00118" />
         <option value="squid:S00121" />
@@ -48,7 +53,6 @@
         <option value="squid:S138" />
         <option value="squid:S1448" />
         <option value="squid:S1449" />
-        <option value="squid:S1451" />
         <option value="squid:S1609" />
         <option value="squid:S1641" />
         <option value="squid:S1694" />
