@@ -2,8 +2,11 @@
   <component name="SonarLintGlobalSettings">
     <option name="excludedRules">
       <set>
+        <option value="squid:IndentationCheck" />
+        <option value="squid:LeftCurlyBraceStartLineCheck" />
         <option value="squid:S00105" />
         <option value="squid:S1451" />
+        <option value="squid:S3419" />
       </set>
     </option>
     <option name="includedRules">
@@ -11,9 +14,7 @@
         <option value="squid:CallToFileDeleteOnExitMethod" />
         <option value="squid:ClassCyclomaticComplexity" />
         <option value="squid:EmptyFile" />
-        <option value="squid:IndentationCheck" />
         <option value="squid:LeftCurlyBraceEndLineCheck" />
-        <option value="squid:LeftCurlyBraceStartLineCheck" />
         <option value="squid:MethodCyclomaticComplexity" />
         <option value="squid:NoSonar" />
         <option value="squid:ParsingError" />
@@ -119,7 +120,6 @@
         <option value="squid:S3366" />
         <option value="squid:S3369" />
         <option value="squid:S3373" />
-        <option value="squid:S3419" />
         <option value="squid:S3420" />
         <option value="squid:S3423" />
         <option value="squid:S3437" />
