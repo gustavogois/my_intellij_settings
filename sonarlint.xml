@@ -5,6 +5,7 @@
         <option value="squid:IndentationCheck" />
         <option value="squid:LeftCurlyBraceStartLineCheck" />
         <option value="squid:S00105" />
+        <option value="squid:S00113" />
         <option value="squid:S1451" />
         <option value="squid:S3419" />
       </set>
@@ -23,7 +24,6 @@
         <option value="squid:RightCurlyBraceStartLineCheck" />
         <option value="squid:S00103" />
         <option value="squid:S00104" />
-        <option value="squid:S00113" />
         <option value="squid:S00118" />
         <option value="squid:S00121" />
         <option value="squid:S00122" />
